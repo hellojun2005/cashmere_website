@@ -189,7 +189,6 @@ header .wrap .sns_logo ul li:nth-child(3) a:hover {background-image: url(../img/
 
 }
 
-#cont_01 article:nth-child(1) {}
 
 #cont_01 article:nth-child(1) .title {
     text-align: center;
@@ -238,7 +237,6 @@ header .wrap .sns_logo ul li:nth-child(3) a:hover {background-image: url(../img/
     border-top: 1px solid #d3d3d3;
 }
 
-#cont_01 article:nth-child(2) {}
 
 #cont_01 article:nth-child(2) .title {
     text-align: center;
